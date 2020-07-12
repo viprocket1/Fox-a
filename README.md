@@ -8,7 +8,7 @@ I needed an embedded scanner when I was developing, and I just looked for inform
 
 ## Preview
 
-![Preview](./preview/ongoingsell.jpg | width=100)
+![](./preview/ongoingsell.jpg | width=100)
 ![Preview](./preview/Languages.jpg)
 ![Preview](./preview/Discount.jpg)
 ![Preview](./preview/ongoing.jpg)
