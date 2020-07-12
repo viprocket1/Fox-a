@@ -8,7 +8,7 @@ I needed an embedded scanner when I was developing, and I just looked for inform
 
 ## Preview
 
-![image](./preview/ongoingsell.jpg "Ongoing Sale" {width=40px height=400px})
+![Preview](./preview/ongoingsell.jpg = 250x250)
 ![Preview](./preview/Languages.jpg)
 ![Preview](./preview/Discount.jpg)
 ![Preview](./preview/ongoing.jpg)
