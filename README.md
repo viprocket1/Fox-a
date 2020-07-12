@@ -8,10 +8,15 @@ I needed an embedded scanner when I was developing, and I just looked for inform
 
 ## Preview
 <a href="url"><img src="./preview/ongoingsell.jpg" align="left" height="480" width="280" ></a>
+#
 <a href="url"><img src="./preview/Languages" align="left" height="480" width="280" ></a>
+#
 <a href="url"><img src="./preview/Discount.jpg" align="left" height="480" width="280" ></a>
+#
 <a href="url"><img src="./preview/ongoing.jpg" align="left" height="480" width="280" ></a>
+#
 <a href="url"><img src="./preview/Front.jpg" align="left" height="480" width="280" ></a>
+#
 <a href="url"><img src="./preview/Product.jpg" align="left" height="480" width="280" ></a>
 
 
