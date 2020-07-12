@@ -8,12 +8,12 @@ I needed an embedded scanner when I was developing, and I just looked for inform
 
 ## Preview
 
-![Preview](./preview/ongoingsell.png)
-![Preview](./preview/Languages.png)
-![Preview](./preview/Discount.png)
-![Preview](./preview/ongoing.png)
-![Preview](./preview/Front.png)
-![Preview](./preview/Product.png)
+![Preview](./preview/ongoingsell.jpg)
+![Preview](./preview/Languages.jpg)
+![Preview](./preview/Discount.jpg)
+![Preview](./preview/ongoing.jpg)
+![Preview](./preview/Front.jpg)
+![Preview](./preview/Product.jpg)
 
 
 
