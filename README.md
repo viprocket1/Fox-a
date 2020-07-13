@@ -22,9 +22,7 @@ I needed an embedded scanner when I was developing, and I just looked for inform
 
 
 
-
-
-## Implementation
+<p>## Implementation
 
 ### Create an embedded scanner
 1. Adding library dependency
@@ -46,4 +44,6 @@ I needed an embedded scanner when I was developing, and I just looked for inform
 1. Setting vibrate permission
 2. Adding a function to vibrate
 3. Calling the funcation in the decode callback
-"# Fox-a" 
+"# Fox-a" </p>
+
+
